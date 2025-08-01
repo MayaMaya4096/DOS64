@@ -1,2 +1,2 @@
-# LMExtender
-A x86_64 / long mode extender for DOS
+# DOS/64
+A x86-64 / long mode extender for DOS
